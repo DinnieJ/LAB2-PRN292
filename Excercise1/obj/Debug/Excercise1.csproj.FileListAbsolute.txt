@@ -1,0 +1,5 @@
+D:\Software shit\C#\Lab2\Excercise1\bin\Debug\Excercise1.exe
+D:\Software shit\C#\Lab2\Excercise1\bin\Debug\Excercise1.pdb
+D:\Software shit\C#\Lab2\Excercise1\obj\Debug\Excercise1.csproj.CoreCompileInputs.cache
+D:\Software shit\C#\Lab2\Excercise1\obj\Debug\Excercise1.exe
+D:\Software shit\C#\Lab2\Excercise1\obj\Debug\Excercise1.pdb
